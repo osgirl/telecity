@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telecity", "telecity\telecity.csproj", "{2645EA57-AA22-44FE-91CD-F4D3AB003BB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telecity.Tests", "telecity.Tests\telecity.Tests.csproj", "{04BAB99B-9468-49F1-85C5-6FD6621CCB9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2645EA57-AA22-44FE-91CD-F4D3AB003BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2645EA57-AA22-44FE-91CD-F4D3AB003BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2645EA57-AA22-44FE-91CD-F4D3AB003BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04BAB99B-9468-49F1-85C5-6FD6621CCB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BAB99B-9468-49F1-85C5-6FD6621CCB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BAB99B-9468-49F1-85C5-6FD6621CCB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BAB99B-9468-49F1-85C5-6FD6621CCB9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
